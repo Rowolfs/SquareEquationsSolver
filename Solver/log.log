@@ -1,0 +1,11 @@
+[DISPLAY]: Init interface
+[DISPLAY]: Show instruction
+[DISPLAY]: Init menu
+[DISPLAY]: Input int init
+[DISPLAY]: Input coefficients init
+[WARNING]: This not digit
+[DISPLAY]: Input coefficients init
+[DISPLAY]: Gorner solver init
+[ERROR]: Your answer less -1000 or more 1000 or you typed incorrect coefficients for Gorner
+[DISPLAY]: Init menu
+[DISPLAY]: Input int init

@@ -1,0 +1,25 @@
+[DISPLAY]: Init interface
+[DISPLAY]: Show instruction
+[DISPLAY]: Init menu
+[DISPLAY]: Input int init
+[DISPLAY]: Input coefficients init
+[DISPLAY]: Gorner solver init
+[DISPLAY]: Init menu
+[DISPLAY]: Input int init
+[WARNING]: It is not digit
+[DISPLAY]: Init menu
+[DISPLAY]: Input int init
+[WARNING]: Invalid number in menu
+[DISPLAY]: Init menu
+[DISPLAY]: Input int init
+[DISPLAY]: Input coefficients init
+[WARNING]: This not digit
+[DISPLAY]: Input coefficients init
+[WARNING]: This not digit
+[DISPLAY]: Input coefficients init
+[WARNING]: This not digit
+[DISPLAY]: Input coefficients init
+[DISPLAY]: Discriminant solver init
+[ERROR]: With this coefficients discriminant is negate
+[DISPLAY]: Init menu
+[DISPLAY]: Input int init
